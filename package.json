@@ -38,7 +38,7 @@
     "eslint": "^4.7.1",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-clean": "^0.3.2",
     "gulp-eslint": "^4.0.0",
     "gulp-istanbul": "^1.1.2",
